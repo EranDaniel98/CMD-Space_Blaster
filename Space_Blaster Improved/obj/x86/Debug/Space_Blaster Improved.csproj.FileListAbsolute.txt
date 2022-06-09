@@ -1,0 +1,9 @@
+C:\Users\Nitsan\Desktop\Space_Blaster Improved\Space_Blaster Improved\bin\Debug\Space_Blaster Improved.exe
+C:\Users\Nitsan\Desktop\Space_Blaster Improved\Space_Blaster Improved\bin\Debug\Space_Blaster Improved.pdb
+C:\Users\Nitsan\Desktop\Space_Blaster Improved\Space_Blaster Improved\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nitsan\Desktop\Space_Blaster Improved\Space_Blaster Improved\obj\x86\Debug\Space_Blaster Improved.exe
+C:\Users\Nitsan\Desktop\Space_Blaster Improved\Space_Blaster Improved\obj\x86\Debug\Space_Blaster Improved.pdb
+J:\Space_Blaster Improved\Space_Blaster Improved\obj\x86\Debug\Space_Blaster Improved.exe
+J:\Space_Blaster Improved\Space_Blaster Improved\obj\x86\Debug\Space_Blaster Improved.pdb
+J:\Space_Blaster Improved\Space_Blaster Improved\bin\Debug\Space_Blaster Improved.exe
+J:\Space_Blaster Improved\Space_Blaster Improved\bin\Debug\Space_Blaster Improved.pdb
